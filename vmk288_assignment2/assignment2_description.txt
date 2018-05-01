@@ -1,0 +1,8 @@
+In this project, I implemented 4 different filters and used keyPressed() to allow for user input. 
+Press 0 for Original Image
+	  1 for Gray Scale
+	  2 for Contrast
+	  3 for Gaussian Blur
+	  4 for Edge Detection/Sobel
+I had some trouble with Edge Detection, the issue being the array was out of bounds, but that was fixed. The main functionality
+for each filter was basically the same, with subtle differences in traversing through the kernel. 

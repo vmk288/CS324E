@@ -1,0 +1,7 @@
+Final Project Progress Report
+
+Vaishnavi Kashyap - I have been working on adding the “High Scores” chart that will both be able to be accessed from the Main Menu and Game Over screens. As stated in the first proposal, players will be able to add their names before playing and high scores will be stored to be displayed. I have been looking at how to import data from XML files to implement this feature however have also been busy and will work on this over the weekend before our presentation on Monday. 
+
+Danish Tharvani - I have created a outline of the Main Menu and Game Over Menu. The button on each page will allow the player to move between screens by either using the mouse or pressing keys, still deciding which will be more efficient. Also outlined code that show how I will be using switch and case to go in between different screens but not fully working yet.
+
+Aimilee Tran - I actually have never initialized a functioning sprite, however that is where I am at currently in doing my part for the final project. I am looking over the lectures and codes posted on Piazza to see how sprites are initialized and how they function. I’ve been looking for several GIF images on Google to use as characters and have found 2 and am looking for a third for a total of 3 characters for the characters selection screen. I unfortunately have been very busy this past week and haven’t been able to work on the project as much as I would like in terms of actual coding however I plan to do all the coding now that it is the weekend.

@@ -1,0 +1,7 @@
+For Assignment1, I created a train using basic shape primitives (rectangle, triangle, and circle). I used 3 different stroke
+weights (3, 5, 8, and noStroke()) and 5 different colors (red, blue, green, yellow, grey). I used the arc to create the sun. I also 
+implemented a static sine wave for the train tracks.
+I had some difficulty understanding the parameters of rect() and ellipse() in terms of which coordinates the shape would start
+at; after playing around with the numbers, however, I fixed this issue. I also wanted to use Bezier curves to implement the
+train tracks, but decided to go with the sine curve instead. I could not figure out how to start the sine curve lower on the 
+canvas, so I just ended up making the canvas bigger for it to balance out.  
